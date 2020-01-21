@@ -1,2 +1,9 @@
 git add study_notes
 git add 20200121.txt
+git status 20200121.txt
+git commit 20200121.txt
+git config --global user.email "huang.jie1984@163.com"
+git config --global user.name "rockjie"
+git log
+git log 20200121.txt
+git log --graph
