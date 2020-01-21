@@ -1,0 +1,2 @@
+git add study_notes
+git add 20200121.txt
