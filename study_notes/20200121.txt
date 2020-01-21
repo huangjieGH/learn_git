@@ -7,3 +7,4 @@ git config --global user.name "rockjie"
 git log
 git log 20200121.txt
 git log --graph
+git push
